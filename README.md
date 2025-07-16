@@ -1,16 +1,30 @@
-## Hi there 👋
+<!-- 🌙 Moon Jellyfish GitHub Profile README -->
 
-<!--
-**aureliabloom/aureliabloom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>🪼 Hi, I’m <strong>T</strong> 🌙</h1>
+  <h3>Floating through the depths of code with bioluminescent ideas and soft glows of curiosity</h3>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌌 About Me
+
+- 🔭 Exploring: TryHackMe, Cybersecurity
+
+---
+
+
+## 🌙 Projects in Bloom
+
+- 🌌 Personal site redesign — soft gradients, floating animations, jellyfish vibes
+
+---
+
+## 🌐 Let's Drift Together
+
+- 🐚 [GitHub](https://github.com/Aureliabloom)
+- 🌸 [Blog](https://medium.com/@aureliabloom) 
+- 🌊 [LinkedIn](https://linkedin.com/in/tawhidajliza) 
+
+---
+
